@@ -1,0 +1,39 @@
+Discussion Questions
+
+
+RUNTIME
+
+1. It depends on how many animal crackers you have to check to see if it contains an elephant.
+
+2. O(1), O(logn), O(n), O(nlogn), O(n^2), O(2^n)
+
+
+STACKS AND QUEUES
+
+1.  1. Stack
+
+    2. Queue
+
+    3. Stack
+
+2. Task List like a print queue and buffers and caches
+
+3. Undo feature and a back button
+
+
+LINKED LISTS
+
+1. Each of the fruit are the nodes (Apple, Berry and Cherry), which includes both the data and the next attributes. Data are Apple, Berry and Cherry. The head is an attribute of the linked list that points to the Apple node. This linked list does not have a tail.
+
+2. In doubly-linked list, a node has both a next and previous attribute, so you can traverse the list in both directions. A singly-linked list only has a next atrribute, so it can only traverse the list in one direction.
+
+3. It's faster because if we want to append to the end of the list, we wouldn't have to traverse the list to find the n to append. We would be able to locate the end of the list right away.
+
+
+TREES
+
+1. Food, Italian, Indian, Mexican, Lasagna, Pizza, Tikka Masala, Saag, Burritos.
+
+2. Food, Mexican, Enchiladas, Tacos, Burritos, Indian, Saag, Tikka Masala, Italian, Pizza, Sicilian, New York-Style, Chicago-Style.
+
+3. Each node in a binary seach tree has a max of two children, the left of the root is typically lower/smaller and the right side of the root is typically higher/bigger (rule of arrangement).
